@@ -1,0 +1,14 @@
+D:\R&D\ApplicationConfiguration\ApplicationConfiguration\obj\Debug\netcoreapp2.1\ApplicationConfiguration.csprojAssemblyReference.cache
+D:\R&D\ApplicationConfiguration\ApplicationConfiguration\obj\Debug\netcoreapp2.1\ApplicationConfiguration.csproj.CoreCompileInputs.cache
+D:\R&D\ApplicationConfiguration\ApplicationConfiguration\obj\Debug\netcoreapp2.1\ApplicationConfiguration.RazorAssemblyInfo.cache
+D:\R&D\ApplicationConfiguration\ApplicationConfiguration\obj\Debug\netcoreapp2.1\ApplicationConfiguration.RazorAssemblyInfo.cs
+D:\R&D\ApplicationConfiguration\ApplicationConfiguration\obj\Debug\netcoreapp2.1\ApplicationConfiguration.AssemblyInfoInputs.cache
+D:\R&D\ApplicationConfiguration\ApplicationConfiguration\obj\Debug\netcoreapp2.1\ApplicationConfiguration.AssemblyInfo.cs
+D:\R&D\ApplicationConfiguration\ApplicationConfiguration\bin\Debug\netcoreapp2.1\ApplicationConfiguration.deps.json
+D:\R&D\ApplicationConfiguration\ApplicationConfiguration\bin\Debug\netcoreapp2.1\ApplicationConfiguration.runtimeconfig.json
+D:\R&D\ApplicationConfiguration\ApplicationConfiguration\bin\Debug\netcoreapp2.1\ApplicationConfiguration.runtimeconfig.dev.json
+D:\R&D\ApplicationConfiguration\ApplicationConfiguration\bin\Debug\netcoreapp2.1\ApplicationConfiguration.dll
+D:\R&D\ApplicationConfiguration\ApplicationConfiguration\bin\Debug\netcoreapp2.1\ApplicationConfiguration.pdb
+D:\R&D\ApplicationConfiguration\ApplicationConfiguration\obj\Debug\netcoreapp2.1\ApplicationConfiguration.RazorTargetAssemblyInfo.cache
+D:\R&D\ApplicationConfiguration\ApplicationConfiguration\obj\Debug\netcoreapp2.1\ApplicationConfiguration.dll
+D:\R&D\ApplicationConfiguration\ApplicationConfiguration\obj\Debug\netcoreapp2.1\ApplicationConfiguration.pdb
